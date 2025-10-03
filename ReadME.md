@@ -58,13 +58,13 @@ Install the required Python libraries:
 
 Create a .env file in the project root with your X API credentials:
 
--CONSUMER_KEY=your_consumer_key:
+CONSUMER_KEY=your_consumer_key:
 
--CONSUMER_SECRET=your_consumer_secret:
+CONSUMER_SECRET=your_consumer_secret:
 
--ACCESS_TOKEN=your_access_token:
+ACCESS_TOKEN=your_access_token:
 
--ACCESS_TOKEN_SECRET=your_access_token_secret:
+ACCESS_TOKEN_SECRET=your_access_token_secret:
 
 Ensure a content.json file exists with your post content, following the structure in the provided sample.
 
