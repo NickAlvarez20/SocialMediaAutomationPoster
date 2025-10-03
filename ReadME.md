@@ -46,7 +46,8 @@ This Social Media Automation Poster includes these features:
 
 -Includes a dry-run mode to simulate posts without publishing.
 
-Rotates through categories for scheduled posts to ensure variety.
+-Rotates through categories for scheduled posts to ensure variety.
+
 ## Getting Started & Installation
 
 Clone the repository to your local machine:
