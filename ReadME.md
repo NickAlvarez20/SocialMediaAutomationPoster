@@ -24,7 +24,9 @@ Additional libraries are required:
 
 -python-dotenv for loading environment variables
 
--schedule for scheduling posts Install these dependencies using:
+-schedule for scheduling posts 
+
+Install these dependencies using:
 
 `pip install tweepy python-dotenv schedule`
 
