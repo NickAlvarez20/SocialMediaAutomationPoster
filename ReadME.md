@@ -26,7 +26,6 @@ Additional libraries are required:
 
 -schedule for scheduling posts Install these dependencies using:
 
-Bash:
 `pip install tweepy python-dotenv schedule`
 
 -You also need a valid .env file in the project root with your X API credentials (CONSUMER_KEY, CONSUMER_SECRET, ACCESS_TOKEN, ACCESS_TOKEN_SECRET).
